@@ -1,5 +1,3 @@
-[Buy Sentic Anticheat](https://sentic.tebex.io/) - [Join our Discord](https://discord.gg/4A2tQZCGrr) - [Watch Demo](https://www.youtube.com/watch?v=-kaNnRGYGmc)
-
 # About Sentic Anticheat
 ## NEW Aimbot Detection & Advanced Protection System
 
@@ -7,9 +5,6 @@ Sentic Anticheat is a powerful FiveM Anti-Cheat solution protecting thousands of
 **Sentic currently detects all major cheat executors including advanced LUA menus and modified game files!**  
 If you're tired of cheaters ruining your server, Sentic Anticheat is your solution.
 Sentic will always stay one step ahead of cheaters 💪
-
-# Anti Executors
-![Anti Cheat Demo](https://sjc.microlink.io/eubcmezreOJxzD1KFsHr8a7zycg6UoXDGyzMu4GPD6g_BBdlkKaORwN2ZEVrM0JM62V5je4He6RhDLK0qxwsCQ.jpeg)
 
 # Features
 
@@ -60,8 +55,6 @@ Sentic will always stay one step ahead of cheaters 💪
 - ⭐ Live Video Capture for Enhanced Moderation
 
 # Useful Links
-[Website](https://sentic.tebex.io/)  
-[YouTube Demo](https://www.youtube.com/watch?v=-kaNnRGYGmc)  
+[Website](https://sentic-anticheat.com)  
+[YouTube Demo](https://youtu.be/-kaNnRGYGmc?si=-mCroU5xL4SsRMiR)  
 [Discord Community](https://discord.gg/4A2tQZCGrr)  
-
-# Info
